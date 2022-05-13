@@ -2,7 +2,7 @@
 # Compiled class file
 *.class
 
-index.html
+#index.html
 # Log file
 *.log
 
