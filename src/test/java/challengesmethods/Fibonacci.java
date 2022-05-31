@@ -1,4 +1,4 @@
-package testmyself;
+package challengesmethods;
 public class Fibonacci {
 
     private static long[] fibonacciCache;

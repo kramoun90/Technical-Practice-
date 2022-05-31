@@ -1,4 +1,4 @@
-package testmyself;
+package challengesmethods;
 
 public class SumTwoIntegersWithoutUsingOperator {
     public static void main(String[] args) {
