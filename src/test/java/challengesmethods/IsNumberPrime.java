@@ -1,10 +1,10 @@
-package testmyself;
+package challengesmethods;
 
 public class IsNumberPrime {
     public static void main( String[] args){
         int primeNumber = 31 ;
-        boolean isPrime = true ;
 
+        boolean isPrime = true ;
         for (int i = 2 ; i <= primeNumber /2 ; i++){
             if(primeNumber % i == 0 ){
                 isPrime = false ;

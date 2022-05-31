@@ -1,8 +1,7 @@
-package testmyself;
+package challengesmethods;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Scanner;
 
 public class PrimeNumber_Range {
     public static void main(String[] args) {
